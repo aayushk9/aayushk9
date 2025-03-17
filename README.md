@@ -1,1 +1,1 @@
-21, I write code and make cool things.
+21, turning code into impact
